@@ -22,8 +22,8 @@ i)	#Selection Sort
 ```
 ''' 
 Program to sort the elements in the list using the Selection Sort algorithm.
-Developed by: Keerthika N
-RegisterNumber: 21000385
+Developed by: SHIVRAJ R 
+RegisterNumber: 23013397
 '''
 def selection_sort(nums):
     for i in range(len(nums)):
@@ -42,8 +42,8 @@ ii)	#Insertion Sort
 ```
 ''' 
 Program to sort the elements in the list using the Insertion Sort algorithm.
-Developed by: Keerthika N
-RegisterNumber: 21000385
+Developed by: SHIVRAJ R
+RegisterNumber: 23013397
 '''
 def insertion_sort(nums):
     for i in range(1,len(nums)):
